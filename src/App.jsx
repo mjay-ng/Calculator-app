@@ -66,7 +66,7 @@ const styles = {
     justifyContent: "center",
     alignItems: "center",
     height: "100vh",
-    background: "#f4f4f4",
+    background: "#798152",
   },
 
   calculator: {
